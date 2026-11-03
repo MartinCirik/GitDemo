@@ -31,13 +31,13 @@
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>servlet-api</artifactId>
-      <scope>provideded</scope>
+      <scope>provideded4</scope>
     </dependency>
 
     <dependency>
       <groupId>javax.servlet.jsp</groupId>
       <artifactId>jsp-api</artifactId>
-      <scope>provideded</scope>
+      <scope>provideded4</scope>
     </dependency>
   </dependencies>
 
